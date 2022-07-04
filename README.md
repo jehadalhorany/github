@@ -13,13 +13,13 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Baha' Abu-Elwan, Full-Stack Web Development from Jordan
+  Hi, I'm jehad ALhorane, Full-Stack Web Development from Jordan
   <br>
 
   <br>
   🎓 I graduated from Meraki Academy Bootcamp
   <br>
-  🎓 I graduated from University Of Jordan as a Civil Engineer 
+  🎓 I graduated from University zarka as Accounting Information Systems
   <br>
   💻 I love writing code and learn anythings about it
   <br>
