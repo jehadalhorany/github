@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/bahaabuelwan/" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code> 
-  <code><a href="https://www.instagram.com/baha__abuelwan/" title="Instagram Profile"><img width="22" src="image/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/jehadal-horany/" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code> 
+
 </h5>
 <br>
 <p align="center">
